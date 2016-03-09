@@ -1,0 +1,28 @@
+body {
+	margin: 0 auto;
+	font-size: 0;
+}
+
+.grid-container {
+	display: block;
+}
+
+.top-level-row {
+	display: block;
+}
+
+.top-level-item {
+	display: inline-block;
+	float: left;
+}
+
+.row-item {
+	display: inline-block;
+}
+
+.split-level {
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+	width: 50%;
+}
